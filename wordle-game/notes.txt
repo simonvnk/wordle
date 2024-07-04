@@ -1,0 +1,7 @@
+steps
+- random word selection +
+- text input
+- word validation +
+- word answer feedback +
+- terminal text display +
+- game flow
